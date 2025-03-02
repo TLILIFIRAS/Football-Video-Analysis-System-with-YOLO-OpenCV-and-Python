@@ -13,7 +13,7 @@ Witness the power of this system with real-time statistics overlaid on the video
 
 
 ## Features
-- **Object Detection**: Utilizes YOLOv8 to detect players, referees, and the football in real-time.
+- **Object Detection**: Utilizes YOLOv11 to detect players, referees, and the football in real-time.
 - **Custom YOLO Model**: Fine-tuned and trained a custom object detection model for enhanced accuracy.
 - **Team Assignment**: Uses KMeans clustering to segment player t-shirt colors and automatically assign players to teams.
 - **Real-Time Ball Possession**: Tracks player-ball interactions to calculate real-time ball possession for each team.
