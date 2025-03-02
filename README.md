@@ -4,8 +4,8 @@
 This project is a comprehensive football analysis system that uses state-of-the-art machine learning, computer vision, and deep learning techniques to track players, calculate ball possession, and analyze player performance in real-time. The system leverages YOLOv8 for object detection, custom-trained models, KMeans clustering for team assignment, and advanced techniques like optical flow and perspective transformation.
 
 ## Output Showcase
-Witness the power of this system with real-time statistics overlaid on the video, offering a comprehensive view of player dynamics and team analysis
-![Screenshot](Screenshot 2025-03-02 031358.PNG)
+Witness the power of this system with real-time statistics overlaid on the video, offering a comprehensive view of player dynamics and team analysis .
+![Screenshot](media/outputcapture.PNG)
 
 ## Watch The Output 
 [![Watch the video]](https://www.youtube.com/watch?v=0uYj7tGOSAA)
