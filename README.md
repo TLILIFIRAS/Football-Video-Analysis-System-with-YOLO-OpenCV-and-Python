@@ -6,7 +6,7 @@ This project is a comprehensive football analysis system that uses state-of-the-
 ## Output Showcase
 Witness the power of this system with real-time statistics overlaid on the video, offering a comprehensive view of player dynamics and team analysis .
 
-![Screenshot](media/outputcapture.PNG)
+![Screenshot](media/outputcapture.png)
 
 ## Watch The Output 
 [![Watch the video]](https://www.youtube.com/watch?v=0uYj7tGOSAA)
